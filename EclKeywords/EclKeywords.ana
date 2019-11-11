@@ -1,0 +1,24 @@
+findstate	
+loadcompiledkb	true
+treeoffsets	false
+treesemantics	false
+browsertoolbar	false
+tabtoolbar	false
+debugtoolbar	false
+kbtoolbar	false
+batchmode	false
+pagemode	true
+verbosemode	false
+loganalyzer	false
+highlighttext	false
+textstate	
+textsel	1
+analyzerstate	
+analyzersel	
+grammarstate	
+grammarsel	
+activetab	2
+processfile	keywords.xml
+kbopen	"concept"	0	182	482	182	682	8	1:5	0
+attributeeditor	false
+addcombotext	keywords.xml

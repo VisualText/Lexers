@@ -1,0 +1,3736 @@
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>
+    <item>
+      <categoryid>0</categoryid>
+      <name>Integer Symbol Value</name>
+      <tooltip></tooltip>
+      <insertbeforecursor>%</insertbeforecursor>
+      <insertaftercursor>%</insertaftercursor>
+      <canbefollowedby></canbefollowedby>
+    </item>

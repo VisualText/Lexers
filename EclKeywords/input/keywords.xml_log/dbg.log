@@ -1,0 +1,8 @@
+[Pass 1 time: 0.003 sec     tokenize]
+[Pass 2 time: 0 sec     kb]
+[Pass 3 time: 0.006 sec     cats]
+[Pass 4 time: 0.001 sec     catGroup]
+[Pass 5 time: 0.006 sec     keywords]
+[Pass 6 time: 0.12 sec     saveKB]
+[Pass 7 time: 0.127 sec     outputKeywords]
+[Clean time: 0.003 sec]
