@@ -9,7 +9,7 @@
 @NODES _ROOT
 
 @POST
-N("level") = G("paren level")++
+N("level") = G("paren level")++;
 @RULES
 _xNIL <-
 	\[	### (1)

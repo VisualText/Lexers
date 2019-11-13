@@ -7,5 +7,7 @@
 ###############################################
 
 @CODE
-kbdumptree(G("cats"),"C:\\git\\nlp\\analyzers\\kbs\\EclKeywords.kb");
+
+kbdumptree(G("cats"),"C:\\git\\nlp\\Lexers\\kbs\\EclKeywords.kb");
+
 @@CODE
