@@ -25,7 +25,7 @@ _keyGroup <-
 @CHECK
 if (N("level",1) != N("level",3)) fail();
 @POST
-S("key") = N("$text",1);
+S("key") = N("text",1);
 single();
 	
 @RULES
